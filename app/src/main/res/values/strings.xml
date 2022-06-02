@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">lista-mercado</string>
+
+    <!--Home Side Bar-->
+    <string name="open">Open</string>
+    <string name="close">Close</string>
 </resources>
